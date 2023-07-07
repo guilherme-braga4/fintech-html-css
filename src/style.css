@@ -1,0 +1,45 @@
+.container {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.jumbotron {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #f0f5f9; /* Azul claro */
+  color: #1f4068; /* Azul escuro */
+}
+
+body {
+  background-color: #f8fbfe; /* Azul mais claro */
+}
+
+h2 {
+  color: #1f4068; /* Azul escuro */
+}
+
+label {
+  color: #1f4068; /* Azul escuro */
+}
+
+.btn-primary {
+  background-color: #1f4068; /* Azul escuro */
+  border-color: #1f4068; /* Azul escuro */
+}
+
+.btn-primary:hover {
+  background-color: #1b315a; /* Azul mais escuro */
+  border-color: #1b315a; /* Azul mais escuro */
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #1f4068; /* Azul escuro */
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #1b315a; /* Azul mais escuro */
+}
+
+.dashboard-section {
+  margin-top: 20px;
+}
